@@ -1,7 +1,7 @@
 # infotech-project
 > Projeto feito para a matéria de Gestão de Sistemas.
 # 🛡️ Infotech - Gestão de Sistemas Computacionais
-> Projeto Integrador - Ciência da Computação & Sistemas de Informação (Uninove Vila Prudente)
+> Projeto Integrador - Ciência da Computação & Sistemas de Informação (Uninove - Universidade Nove de Julho)
 
 ## 📋 Sobre o Projeto
 A Infotech é uma consultoria especializada em Governança de Dados, focada em segurança (ISO 20.000), alta disponibilidade e escalabilidade. Este repositório centraliza a documentação técnica e os artefatos de gestão da empresa.
